@@ -13,8 +13,10 @@ html {
 }
 
 .color-box {
-  height: 200px;
-  width: 200px;
+  height: 65vh;
+  max-height: 500px;
+  width: 85vw;
+  max-width: 500px;
   margin-bottom: 5px;
 }
 
@@ -27,19 +29,24 @@ html {
 }
 
 button {
+  max-width: 150px;
+  max-height: 75px;
   padding: 10px;
   margin: 10px;
 }
 
 .correct {
+  font-size: 2rem;
   color: green;
 }
 
 .incorrect {
+  font-size: 2rem;
   color: red;
 }
 
 .score {
+  font-size: 3rem;
   text-decoration: underline;
   margin-bottom: 10px;
 }

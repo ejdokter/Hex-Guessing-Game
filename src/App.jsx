@@ -35,6 +35,7 @@ function App() {
       setScore(score + 1);
       getColor();
     } else {
+      setCorrect(false);
       console.log("incorrect", color);
     }
   }
