@@ -1,0 +1,45 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+#root,
+html {
+  height: 100%;
+}
+
+.color-box {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 5px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.score {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
