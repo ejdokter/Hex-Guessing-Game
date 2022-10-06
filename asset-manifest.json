@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hex-Guessing-Game/static/css/main.d5bfe9d3.css",
+    "main.js": "/Hex-Guessing-Game/static/js/main.4b83e4b4.js",
+    "static/js/787.e433860e.chunk.js": "/Hex-Guessing-Game/static/js/787.e433860e.chunk.js",
+    "index.html": "/Hex-Guessing-Game/index.html",
+    "main.d5bfe9d3.css.map": "/Hex-Guessing-Game/static/css/main.d5bfe9d3.css.map",
+    "main.4b83e4b4.js.map": "/Hex-Guessing-Game/static/js/main.4b83e4b4.js.map",
+    "787.e433860e.chunk.js.map": "/Hex-Guessing-Game/static/js/787.e433860e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5bfe9d3.css",
+    "static/js/main.4b83e4b4.js"
+  ]
+}
